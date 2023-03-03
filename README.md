@@ -12,7 +12,7 @@ This tool is build using PYTHON
 
 
 
-SCREENSHOTS
+                                              SCREENSHOTS
 
 
 ![image](https://user-images.githubusercontent.com/126624918/222778702-f63a887c-89da-42fd-b020-04cf1ddb84d2.png)
