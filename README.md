@@ -11,12 +11,8 @@ This tool is used to Encrypt and Decrypt images in many different ways.
 
 
                                             This tool is build using PYTHON
-
-
-
-
-
-
+                                            
+                                            
                                                         SCREENSHOTS
 
 
