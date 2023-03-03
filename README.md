@@ -8,11 +8,16 @@ This tool is used to Encrypt and Decrypt images in many different ways.
 
 3-Both (the Rail Fence Cipher and Text)
 
-This tool is build using PYTHON
+
+
+                                            This tool is build using PYTHON
 
 
 
-                                              SCREENSHOTS
+
+
+
+                                                        SCREENSHOTS
 
 
 ![image](https://user-images.githubusercontent.com/126624918/222778702-f63a887c-89da-42fd-b020-04cf1ddb84d2.png)
